@@ -1,0 +1,12 @@
+gophers
+-------
+
+very work in progress. doesn't work correctly yet.
+
+build:
+  $ make
+  $ ./gopgers
+
+keys:
+  j, k - down, up
+  g    - load page
